@@ -1,0 +1,22 @@
+- !!com.example.Contact
+  name: Nathan Sweet
+  age: 28
+  address: pak
+  phoneNumbers:
+    - !!com.example.Phone
+      name: Home
+      number: 1122
+    - !!com.example.Phone
+      name: Work
+      number: 3322
+- !!com.example.Contact
+  name: Nathan Sw1eet
+  age: 281
+  address: pak1
+  phoneNumbers:
+    - !!com.example.Phone
+      name: Home1
+      number: 11221
+    - !!com.example.Phone
+      name: Work1
+      number: 33211

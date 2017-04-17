@@ -1,0 +1,3 @@
+- !!de.test.Mitarbeiter {name: Grube, position: IT Consultant, telefon: null, vorname: Sarah}
+- !!de.test.Mitarbeiter {name: Mustermann, position: IT Consultant, telefon: null,  vorname: Max}
+- !!de.test.Mitarbeiter {name: Topper, position: IT Consultant, telefon: null,  vorname: Martin}

@@ -1,0 +1,19 @@
+Mitarbeiter:                                                                                                                                                                                                                               
+- {
+    vorname : Hans, 
+    name    : Dampf,
+    position: Geschäftsführer und Gründer,
+    telefon : +49 1234 4554-10
+  }
+- {
+    vorname : Max, 
+    name    : Mustermann,
+    position: Software-Consultant,
+    telefon : +49 1234 4554-31
+  }
+- {
+    vorname : Fabian, 
+    name    : Müller,
+    position: Software-Consultant,
+    telefon : +49 1234 4554-26
+  }

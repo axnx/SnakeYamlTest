@@ -1,0 +1,26 @@
+- !!de.test.Mitarbeiter 
+   {
+        name: Topper, 
+        position: IT Consultant,
+        telefon: null,
+        vorname: Max,
+        bild: mt.jpg
+    }
+
+- !!de.test.Mitarbeiter
+    {
+        name: Morano,
+        position: IT Consultant,
+        telefon: null,
+        vorname: Fabian,
+        bild: fm.jpg
+    }
+
+- !!de.test.Mitarbeiter 
+    {
+        name: Hammer, 
+        position: IT Consultant,
+        telefon: null,
+        vorname: Martin,
+        bild: mh.jpg
+    }
